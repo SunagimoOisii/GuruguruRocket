@@ -3,6 +3,9 @@
 ## プロジェクト概要
 **GuruguruRocket** はUnityを用いて開発したミニゲームです。プレイヤーはロケットを回転操作し、障害物を避けながらゴールを目指します。
 
+実際のゲームの画面や詳細な説明は以下のリンクからご確認いただけます。
+[🔗 GuruguruRocket ゲーム詳細（Notionページ）](https://picturesque-kayak-ac4.notion.site/195281634a1680678c77ceda4c0cddf1?pvs=4)
+
 ## 🛠使用技術
 - Unity（2022.3）
 - DoTween
@@ -36,8 +39,3 @@ ProjectSettings/
 - `GameManager.cs`
   - ゲーム全体の制御フロー
   - コードのメンテナンス性や拡張性への配慮
-
-## ゲーム内容・画面イメージ
-実際のゲームの画面や詳細な説明は以下のリンクからご確認いただけます。
-
-[🔗 GuruguruRocket ゲーム詳細（Notionページ）](https://picturesque-kayak-ac4.notion.site/195281634a1680678c77ceda4c0cddf1?pvs=4)
