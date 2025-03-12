@@ -1,6 +1,6 @@
-# 🚀 GuruguruRocket
+# GuruguruRocket　🚀
 
-## 🎮 プロジェクト概要
+## プロジェクト概要
 **GuruguruRocket** はUnityを用いて開発したミニゲームです。プレイヤーはロケットを回転操作し、障害物を避けながらゴールを目指します。
 
 ## 🛠使用技術
