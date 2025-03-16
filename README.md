@@ -14,9 +14,11 @@
 ```
 Assets/
 └── Scripts/
-    ├── Test.cs
-    ├── Test.cs
-    └── Test.cs
+    ├── Button/
+    ├── Enemy/
+    ├── Item/
+    ├── ParameterDataBase/
+    └── SoundSystem/
 
 ProjectSettings/
 └── Unityのバージョンや設定についてのファイル
