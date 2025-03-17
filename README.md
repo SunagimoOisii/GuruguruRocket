@@ -34,7 +34,7 @@ ProjectSettings/
 
 - `ICollide.cs`
   - 衝突判定後の処理を実装するインターフェース
-  - なお、自機(`Rocket`)には`OnTriggerEnter2D()`による衝突検知後、相手の`ICollide`を実行する機能がある
+  - なお、自機(`Rocket.cs`)には`OnTriggerEnter2D()`による衝突検知後、相手の`ICollide`を実行する機能がある
   - 結果、新キャラを実装する際は`ICollide`を介して既存のコードを変更せず衝突後の処理が実装できるようになった
 
 ## 必要なアセットについて
