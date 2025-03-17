@@ -13,20 +13,21 @@
 
 ## 使用技術
 - Unity(2022.3)
+- Addressables
 - DoTween
 - C#
 
 ## リポジトリ構成
 ```
 Assets/Scripts/
-  ├── Button/
-  ├── Enemy/
-  ├── Item/
-  ├── ParameterDataBase/
-  └── SoundSystem/
+├── Button/
+├── Enemy/
+├── Item/
+├── ParameterDataBase/
+└── SoundSystem/
 
 ProjectSettings/
-  └── Unityのバージョンや設定についてのファイル
+└── Unityのバージョンや設定についてのファイル
 ```
 
 ## プログラム　ピックアップ
