@@ -6,7 +6,7 @@ public class EscapeGame : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            //ƒQ[ƒ€I—¹ˆ—
+            //ã‚²ãƒ¼ãƒ çµ‚äº†å‡¦ç†
         #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
         #else
