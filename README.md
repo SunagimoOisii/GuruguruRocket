@@ -6,7 +6,7 @@
 [🔗 GuruguruRocket 詳細（Notionページ）](https://picturesque-kayak-ac4.notion.site/195281634a1680678c77ceda4c0cddf1?pvs=4)  
 
 ## 使用技術
-- Unity（2022.3）
+- Unity(2022.3)
 - DoTween
 - C#
 
@@ -17,14 +17,14 @@
 ## リポジトリ構成
 ```
 Assets/Scripts/
-├── Button/
-├── Enemy/
-├── Item/
-├── ParameterDataBase/
-└── SoundSystem/
+  ├── Button/
+  ├── Enemy/
+  ├── Item/
+  ├── ParameterDataBase/
+  └── SoundSystem/
 
 ProjectSettings/
-└── Unityのバージョンや設定についてのファイル
+  └── Unityのバージョンや設定についてのファイル
 ```
 
 ## プログラム　ピックアップ
