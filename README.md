@@ -16,13 +16,12 @@
 
 ## リポジトリ構成
 ```
-Assets/
-└── Scripts/
-    ├── Button/
-    ├── Enemy/
-    ├── Item/
-    ├── ParameterDataBase/
-    └── SoundSystem/
+Assets/Scripts/
+├── Button/
+├── Enemy/
+├── Item/
+├── ParameterDataBase/
+└── SoundSystem/
 
 ProjectSettings/
 └── Unityのバージョンや設定についてのファイル
